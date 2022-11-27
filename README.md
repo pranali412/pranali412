@@ -44,7 +44,7 @@
 
 <h2><i>Let's Connect</i></h2>
 <p align="left">
-    <a href="https://www.linkedin.com/feed/">
+    <a href="https://www.linkedin.com/in/pranali-mankar-ab7b86241/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pranali-mankar-ab7b86241/" />
     </a>
     <a href="https://pranali412.github.io">
