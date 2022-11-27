@@ -2,15 +2,14 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Pranali Mankar...
+    I'm Pranali...
 </h1>
 
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
    <i> Aspiring Java Backend Developer</i>
-    <i> 
- A passionate Java backend developer who loves exploring new things.</i>
+   
 </h3
   
 <br>
@@ -46,7 +45,7 @@
 <h2><i>Let's Connect</i></h2>
 <p align="left">
     <a href="https://www.linkedin.com/feed/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/feed/" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pranali-mankar-ab7b86241/" />
     </a>
     <a href="https://pranali412.github.io">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pranali412.github.io" />
