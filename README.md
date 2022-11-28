@@ -8,7 +8,8 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Aspiring Java Backend Developer</i>
+   <i> Aspiring Java Backend Developer
+    Passionate programmer who finds the world of software development. Love to code and love to learn. Always keen on new technologies and challenging problems.</i>
    
 </h3
   
