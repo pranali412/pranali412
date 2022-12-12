@@ -73,12 +73,7 @@
   
  <!--------------------------------------------------------------------------------> 
   
- ## :trophy: Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/Akash1yadavv"><img alt="Akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akash1yadavv&custom_title=Akash1yadavv's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
-<br/>
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
